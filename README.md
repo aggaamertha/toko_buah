@@ -18,8 +18,8 @@ dan lain-lain.
 
 User demo:
 - Admin
-username: mulyojr
+username: agga
 password: qwerty
 - Customer:
-username: agungtr
+username: agga
 password: qwerty
